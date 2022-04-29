@@ -67,10 +67,9 @@ Cloned:-  https://pluralsight-clone-1.netlify.app/
 
 - [@Suman Giri](https://github.com/SumanJK)
 - [@Dharampal Kumar](https://github.com/Dharm8434)
-- [@Surajit Dhar](https://github.com/Surajit-Dhar)
 - [@Akshay Dwankar](https://github.com/akshaydwankar3)
 - [@Anwerdeen M](https://github.com/AnwardeenM)
-
+- [@Surajit Dhar](https://github.com/surajit00)
 
 
 ## End Notes

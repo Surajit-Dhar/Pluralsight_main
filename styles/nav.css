@@ -31,12 +31,12 @@ p {
 }
 
 #nav {
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   z-index: 5;
-  height: 92px;
-  background-color: #090909;
+  height: 90px;
+  background-color: #151515;
   display: flex;
   color: white;
   align-items: center;

@@ -1,9 +1,7 @@
 let navigation = () => {
   return `
-    <div style="height:89px" id="stt"><a href="./index.html"><img
-              height="200px"
-              width="200px"
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHJgOzHTygWtHyzD5RqPoP4pPhdfLQC_QeG95G1vVcXoucR-_Sel9h2tzpKg7RwYOjx8&usqp=CAU"
+    <div><a href="./index.html"><img
+              src="https://www.sec.gov/Archives/edgar/data/1725579/000162828019002420/pluralsightlogob01.jpg"
               alt=""></a>
         </div>
         <div>
