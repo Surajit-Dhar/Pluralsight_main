@@ -42,17 +42,13 @@ function coursesSite() {
   window.location.href = "learning.html";
 }
 
-let plans = document.getElementById("viewPlans");
+// let plans = document.getElementById("viewPlans");
 
-plans.addEventListener("click", viewPlans);
+// plans.addEventListener("click", viewPlans);
 
-let plan = document.querySelector(".viewPlans");
+// let plan = document.querySelector(".viewPlans");
 
-plan.addEventListener("click", viewPlans);
 
-function viewPlans() {
-  window.location.href = "plans.html";
-}
 
 let tryBtn = document.getElementById("tryForFree");
 tryBtn.addEventListener("click", tryFree);
@@ -67,3 +63,8 @@ colab.addEventListener("click", () => {
   window.location.href = "colab.html"
 });
 
+document.querySelector("#viewPlans").addEventListener("click" ,myfun ) 
+      
+function myfun(){
+  window.location.href="/signin.html";
+}
