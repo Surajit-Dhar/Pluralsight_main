@@ -233,9 +233,9 @@ function payment() {
 
   let card_nmbr = document.getElementById("card_nmbr").value;
   let card_nmbr_mand = document.getElementById("cardnmbr_mand");
-  if (card_nmbr.length < 12) {
+  if (card_nmbr.length < 16) {
     card_nmbr_mand.setAttribute("style", "display:block");
-  } else if (card_nmbr.length > 12) {
+  } else if (card_nmbr.length > 16) {
     card_nmbr_mand.innerText = "Invalid Number";
     card_nmbr_mand.setAttribute("style", "display:block");
   } else {
